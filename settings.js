@@ -3,9 +3,9 @@ const fs = require('fs')
 global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://ayahbunda:<password>@cluster0.axwjedk.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
-global.limitCount = 10000
+global.your_email = "storevalzy@ichigo.me" //email
+global.email_password = "6F22AEB46D3B66D0D0FE3A57662AF811C485" //application password email
+global.limitCount = 10
 global.YUOR_PORT = 8000
 global.loghandler = {
 	noapikey:{
